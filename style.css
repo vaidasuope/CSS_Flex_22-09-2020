@@ -1,0 +1,42 @@
+body {
+	background: yellow;
+	display: flex;
+	flex-wrap: wrap;
+}
+.content {
+	display: flex;
+	flex-wrap: wrap;
+	width: 70%;
+}
+header {
+	background: red;
+	height: 200px;
+	width: 100%;
+}
+.vidurys {
+	background: blue;
+	height: 500px;
+	width: 50%;
+}
+#virsus {
+	background: orange;
+	height: 50%;
+}
+#apacia {
+	background: green;
+	height: 50%;
+}
+article {
+	background: grey;
+	width: 50%;
+}
+footer {
+	background: black;
+	color: white;
+	height: 200px;
+	width: 100%;
+}
+.desinys {
+	background: purple;
+	width: 30%;
+}
